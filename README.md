@@ -9,7 +9,9 @@
 ## 📘 Course Information  
 
 🎓 Course Code: CSE106 - Discrete Mathematics  
-👨‍🏫 Faculty Name: Sadia Nur Amin 
+
+👨‍🏫 Faculty Name: Sadia Nur Amin  
+
 📌 Project Title: Degree Computation in a Directed Graph Using Adjacency Matrix  
 
 ---
